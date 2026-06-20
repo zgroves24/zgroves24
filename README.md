@@ -7,6 +7,7 @@ I work on product, automation, developer workflows, and student-facing software.
 ## Public Work Worth Starting With
 
 - [agent-operator-skills](https://github.com/zgroves24/agent-operator-skills): reusable AI-agent skills for planning, verification, security reviews, SEO audits, changelogs, CLIs, and multi-step coding loops.
+- [AI-Educator-Toolkit](https://github.com/zgroves24/AI-Educator-Toolkit): a Streamlit and Gemini app for lesson planning, quiz generation, concept explanation, and classroom differentiation.
 - [papertrail](https://github.com/zgroves24/papertrail): an ArXiv monitoring service that tracks research papers and generates structured summaries.
 - [briefly](https://github.com/zgroves24/briefly): a command-line summarizer for URLs, files, and stdin.
 - [stacklog](https://github.com/zgroves24/stacklog): a developer journal app using Next.js and Supabase.
@@ -16,4 +17,3 @@ I work on product, automation, developer workflows, and student-facing software.
 - GradePath: student-first academic planning and grade intelligence.
 - AI-agent workflows: making coding agents more reliable through better planning, review, verification, and output audits.
 - Practical automation: small tools that reduce repeated work without hiding the underlying process.
-
