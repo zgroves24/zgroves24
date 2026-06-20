@@ -6,6 +6,7 @@ I work on product, automation, developer workflows, and student-facing software.
 
 ## Public Work Worth Starting With
 
+- [gradepath-case-study](https://github.com/zgroves24/gradepath-case-study): public product case study for GradePath, showing product workflow, architecture shape, screenshots, and founder-built execution without exposing private source code.
 - [agent-operator-skills](https://github.com/zgroves24/agent-operator-skills): reusable AI-agent skills for planning, verification, security reviews, SEO audits, changelogs, CLIs, and multi-step coding loops.
 - [papertrail](https://github.com/zgroves24/papertrail): an ArXiv monitoring service that tracks research papers and generates structured summaries.
 - [briefly](https://github.com/zgroves24/briefly): a command-line summarizer for URLs, files, and stdin.
